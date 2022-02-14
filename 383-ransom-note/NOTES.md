@@ -18,10 +18,10 @@ class Solution:
 ```py
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-    ransomNote_stat = collections.Counter(ransomNote)
-    magazine_stat = collections.Counter(magazine)
-    # print(magazine_stat, ransomNote_stat)
-    return magazine_stat >= ransomNote_stat
+        ransomNote_stat = collections.Counter(ransomNote)
+        magazine_stat = collections.Counter(magazine)
+        # print(magazine_stat, ransomNote_stat)
+        return magazine_stat >= ransomNote_stat
 ```
 
 # another collections.Counter()
@@ -33,8 +33,8 @@ class Solution:
         count2 = collections.Counter(magazine)
         count2.subtract(count)
         for key in count2:
-        if count2[key] < 0:
-            return False
+            if count2[key] < 0:
+                return False
         ​
         return True
 ```
