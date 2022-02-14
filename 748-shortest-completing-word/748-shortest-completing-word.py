@@ -1,21 +1,18 @@
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
-        letter = []
+        letters = []
         for i in licensePlate:
-            if i.isnumeric() or i == " ":
-                continue
-            else:
-                letter.append(i.lower())
-        table1 = Counter(letter)
-        # print(table1)
-        word_len = 1000
-        memory = None
+            if i.isalpha():
+                letters.append(i.lower())
+        words.sort(key=len)
+        # print(letters, words)
+        
         for word in words:
-            table2 = Counter(word)
-            # print(table2)
-            if table1 == table2:
+            flag = True
+            for letter in letters:
+                if letter not in word or letters.count(letter) > word.count(letter):
+                    flag = False
+                    break
+            if flag == True:
                 return word
-            if table1 < table2 and word_len > len(word):
-                word_len = len(word)
-                memory = word
-        return memory
+    
