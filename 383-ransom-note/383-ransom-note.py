@@ -1,5 +1,15 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        ransomNote_stat = collections.Counter(ransomNote)
-        magazine_stat = collections.Counter(magazine)
-        return magazine_stat >= ransomNote_stat
+        table = {}
+        for i in magazine:
+            if i not in table:
+                table[i] = 1
+            else:
+                table[i] += 1
+                
+        for i in ransomNote:
+            if i not in table or table[i] == 0:
+                return False
+            else:
+                table[i] -= 1
+        return True
