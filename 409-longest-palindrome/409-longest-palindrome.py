@@ -11,10 +11,7 @@ class Solution:
         one = 0
         for e in table:
             if table[e] % 2 == 1:
-                count += table[e] - 1
-                table[e] = 1
                 one = 1
-            else:
-                count += table[e]
+            count += table[e] // 2 * 2
         count += one
         return count
