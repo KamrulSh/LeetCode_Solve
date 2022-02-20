@@ -15,9 +15,18 @@ class Solution:
         # return st == str(num)
         
         # ------------------ step 3
+        # if num == 0:
+        #     return True
+        # if str(num)[-1] == "0":
+        #     return False
+        # else:
+        #     return True
+        
+        # ------------------ step 4
         if num == 0:
             return True
-        if str(num)[-1] == "0":
-            return False
-        else:
-            return True
+        rev1 = str(num)[::-1]
+        rev1 = int(rev1)
+        rev2 = str(rev1)[::-1]
+        rev2 = int(rev2)
+        return num == rev2
