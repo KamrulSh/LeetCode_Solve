@@ -1,7 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         table_set = set()
-        
         for i in s:
             if i not in table_set:
                 table_set.add(i)
@@ -12,5 +11,4 @@ class Solution:
             length = len(s) - len(table_set) + 1
         else: 
             length = len(s)
-            
         return length
