@@ -1,18 +1,21 @@
-[![LeetHub Supports](https://github.com/KamrulSh/LeetCode_Solve/actions/workflows/leethub.yml/badge.svg)](https://github.com/KamrulSh/LeetCode_Solve/actions/workflows/leethub.yml)
+# Leetcode-practice
 
-## LeetCode Problem Practice:
+## LeetCode
 
-**Problem Solved: 26** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 0</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 29** (<span style="color:green">Easy: 28</span>, <span style="color:orange">Medium: 1</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href="leetcode/00001_two-sum/1-two-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <a href="leetcode/00003_longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | <a href="leetcode/00009_palindrome-number/9-palindrome-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | <a href="leetcode/00278_first-bad-version/278-first-bad-version.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <a href="leetcode/00290_word-pattern/290-word-pattern.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | <a href="leetcode/00383_ransom-note/383-ransom-note.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | <a href="leetcode/00748_shortest-completing-word/748-shortest-completing-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | <a href="leetcode/00929_unique-email-addresses/929-unique-email-addresses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | <a href="leetcode/01323_maximum-69-number/1323-maximum-69-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | <a href="leetcode/01496_path-crossing/1496-path-crossing.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | <a href="leetcode/01550_three-consecutive-odds/1550-three-consecutive-odds.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | <a href="leetcode/01822_sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |

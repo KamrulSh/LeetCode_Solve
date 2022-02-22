@@ -1,5 +1,5 @@
 class Solution:
-    def maximum69Number (self, num: int) -> int:
+    def maximum69Number(self, num: int) -> int:
         num = list(str(num))
         for i in range(len(num)):
             if num[i] == "6":
@@ -7,4 +7,3 @@ class Solution:
                 break
         num = "".join(num)
         return num
-   
