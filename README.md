@@ -1,9 +1,10 @@
 ## LeetCode Problem Practice:
 
-**Problem Solved: 25** (<span style="color:green">Easy: 25</span>, <span style="color:orange">Medium: 0</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 26** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 0</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href="leetcode/00001_two-sum/1-two-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | <a href="leetcode/00278_first-bad-version/278-first-bad-version.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <a href="leetcode/00290_word-pattern/290-word-pattern.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
