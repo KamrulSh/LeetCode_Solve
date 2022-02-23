@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 33** (<span style="color:green">Easy: 31</span>, <span style="color:orange">Medium: 2</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 34** (<span style="color:green">Easy: 32</span>, <span style="color:orange">Medium: 2</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -23,6 +23,7 @@
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | <a href="leetcode/01323_maximum-69-number/1323-maximum-69-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | <a href="leetcode/01496_path-crossing/1496-path-crossing.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | <a href="leetcode/01550_three-consecutive-odds/1550-three-consecutive-odds.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | <a href="leetcode/01710_maximum-units-on-a-truck/1710-maximum-units-on-a-truck.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | <a href="leetcode/01822_sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | <a href="leetcode/01837_sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | <a href="leetcode/01876_substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
