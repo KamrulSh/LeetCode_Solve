@@ -13,6 +13,7 @@ class Solution:
         return count
 ```
 
+```py
 **Input**
 00000000000000000000000000001011
 
@@ -52,3 +53,4 @@ class Solution:
 
 **Output**
 3
+```
