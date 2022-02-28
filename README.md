@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 52** (<span style="color:green">Easy: 47</span>, <span style="color:orange">Medium: 5</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 53** (<span style="color:green">Easy: 48</span>, <span style="color:orange">Medium: 5</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -15,6 +15,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | <a href="leetcode/00013_roman-to-integer/13-roman-to-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <a href="leetcode/00014_longest-common-prefix/14-longest-common-prefix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href="leetcode/00217_contains-duplicate/217-contains-duplicate.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | <a href="leetcode/00278_first-bad-version/278-first-bad-version.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <a href="leetcode/00290_word-pattern/290-word-pattern.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
