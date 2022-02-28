@@ -1,3 +1,27 @@
+**code**
+
+```py
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        count = 0
+        mask = 1
+        for i in range(32):
+            # print(n, mask, n & mask)
+            if n & mask != 0:
+                count += 1
+            mask <<= 1
+        return count
+```
+
+**Input**
+00000000000000000000000000001011
+
+**print**
+11 1 1
+11 2 2
+11 4 0
+11 8 8
+11 16 0
 11 32 0
 11 64 0
 11 128 0
@@ -25,7 +49,6 @@
 11 536870912 0
 11 1073741824 0
 11 2147483648 0
-​
+
 **Output**
 3
-​
