@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 61** (<span style="color:green">Easy: 55</span>, <span style="color:orange">Medium: 6</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 63** (<span style="color:green">Easy: 57</span>, <span style="color:orange">Medium: 6</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -18,12 +18,14 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <a href="leetcode/00035_search-insert-position/35-search-insert-position.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href="leetcode/00053_maximum-subarray/53-maximum-subarray.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | <a href="leetcode/00088_merge-sorted-array/88-merge-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href="leetcode/00217_contains-duplicate/217-contains-duplicate.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | <a href="leetcode/00278_first-bad-version/278-first-bad-version.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <a href="leetcode/00290_word-pattern/290-word-pattern.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | <a href="leetcode/00345_reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | <a href="leetcode/00350_intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | <a href="leetcode/00383_ransom-note/383-ransom-note.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <a href="leetcode/00704_binary-search/704-binary-search.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | <a href="leetcode/00748_shortest-completing-word/748-shortest-completing-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
