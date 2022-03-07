@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 79** (<span style="color:green">Easy: 72</span>, <span style="color:orange">Medium: 7</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 81** (<span style="color:green">Easy: 74</span>, <span style="color:orange">Medium: 7</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -28,12 +28,14 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | <a href="leetcode/00278_first-bad-version/278-first-bad-version.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href="leetcode/00283_move-zeroes/283-move-zeroes.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <a href="leetcode/00290_word-pattern/290-word-pattern.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <a href="leetcode/00344_reverse-string/344-reverse-string.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00344_reverse-string/344-reverse-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | <a href="leetcode/00345_reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | <a href="leetcode/00350_intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | <a href="leetcode/00383_ransom-note/383-ransom-note.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | <a href="leetcode/00387_first-unique-character-in-a-string/387-first-unique-character-in-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href="leetcode/00389_find-the-difference/389-find-the-difference.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00389_find-the-difference/389-find-the-difference.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | <a href="leetcode/00496_next-greater-element-i/496-next-greater-element-i.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |  | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <a href="leetcode/00704_binary-search/704-binary-search.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | <a href="leetcode/00709_to-lower-case/709-to-lower-case.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00709_to-lower-case/709-to-lower-case.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | <a href="leetcode/00748_shortest-completing-word/748-shortest-completing-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
