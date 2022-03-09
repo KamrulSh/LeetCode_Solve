@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 83** (<span style="color:green">Easy: 76</span>, <span style="color:orange">Medium: 7</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 84** (<span style="color:green">Easy: 77</span>, <span style="color:orange">Medium: 7</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -36,6 +36,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | <a href="leetcode/00387_first-unique-character-in-a-string/387-first-unique-character-in-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href="leetcode/00389_find-the-difference/389-find-the-difference.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00389_find-the-difference/389-find-the-difference.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | <a href="leetcode/00496_next-greater-element-i/496-next-greater-element-i.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) |  | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |  | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <a href="leetcode/00704_binary-search/704-binary-search.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | <a href="leetcode/00709_to-lower-case/709-to-lower-case.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00709_to-lower-case/709-to-lower-case.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
