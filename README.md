@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 88** (<span style="color:green">Easy: 79</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 89** (<span style="color:green">Easy: 80</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -15,6 +15,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | <a href="leetcode/00012_integer-to-roman/12-integer-to-roman.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | <a href="leetcode/00013_roman-to-integer/13-roman-to-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <a href="leetcode/00014_longest-common-prefix/14-longest-common-prefix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <a href="leetcode/00035_search-insert-position/35-search-insert-position.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href="leetcode/00053_maximum-subarray/53-maximum-subarray.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
