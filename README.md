@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 90** (<span style="color:green">Easy: 81</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 91** (<span style="color:green">Easy: 82</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -25,6 +25,7 @@
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | <a href="leetcode/00118_pascals-triangle/118-pascals-triangle.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <a href="leetcode/00121_best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href="leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href="leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | <a href="leetcode/00189_rotate-array/189-rotate-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
