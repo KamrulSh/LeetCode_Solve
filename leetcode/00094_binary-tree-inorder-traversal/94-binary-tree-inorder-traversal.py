@@ -10,17 +10,17 @@ class Solution:
         inorder = []
         nodeStack = []
         current = root
-        
+
         while True:
             if current is not None:
                 nodeStack.append(current)
                 current = current.left
-                
+
             elif nodeStack:
                 current = nodeStack.pop()
                 inorder.append(current.val)
                 current = current.right
             else:
                 break
-                
+
         return inorder

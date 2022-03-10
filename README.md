@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 91** (<span style="color:green">Easy: 82</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 92** (<span style="color:green">Easy: 83</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -22,6 +22,7 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <a href="leetcode/00074_search-a-2d-matrix/74-search-a-2d-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | <a href="leetcode/00088_merge-sorted-array/88-merge-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href="leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | <a href="leetcode/00118_pascals-triangle/118-pascals-triangle.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <a href="leetcode/00121_best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href="leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
