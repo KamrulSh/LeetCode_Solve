@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 111** (<span style="color:green">Easy: 100</span>, <span style="color:orange">Medium: 11</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 112** (<span style="color:green">Easy: 100</span>, <span style="color:orange">Medium: 12</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -55,6 +55,7 @@
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href="leetcode/00389_find-the-difference/389-find-the-difference.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/00389_find-the-difference/389-find-the-difference.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | <a href="leetcode/00496_next-greater-element-i/496-next-greater-element-i.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | <a href="leetcode/00500_keyboard-row/500-keyboard-row.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | <a href="leetcode/00503_next-greater-element-ii/503-next-greater-element-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | <a href="leetcode/00557_reverse-words-in-a-string-iii/557-reverse-words-in-a-string-iii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | <a href="leetcode/00566_reshape-the-matrix/566-reshape-the-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | <a href="leetcode/00653_two-sum-iv-input-is-a-bst/653-two-sum-iv-input-is-a-bst.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
