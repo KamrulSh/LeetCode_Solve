@@ -16,12 +16,12 @@ class Solution:
         # print(dict)
         dictIdx = sorted(dict)
         # print(dictIdx)
-        
+
         for i in dictIdx:
             newArr.extend(sorted(dict[i]))
         # print(newArr)
         return newArr
-        
+
         '''
         Output:
         {2: [10, 3, 5, 6], 3: [100, 7], 6: [1000], 5: [10000], 0: [0], 1: [1, 2, 4, 8, 1024, 512, 256, 128, 64, 32, 16]}
