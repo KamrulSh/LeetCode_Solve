@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 119** (<span style="color:green">Easy: 106</span>, <span style="color:orange">Medium: 13</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 120** (<span style="color:green">Easy: 107</span>, <span style="color:orange">Medium: 13</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -127,4 +127,5 @@
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | <a href="leetcode/02180_count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | <a href="leetcode/02185_counting-words-with-a-given-prefix/2185-counting-words-with-a-given-prefix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | <a href="leetcode/02186_minimum-number-of-steps-to-make-two-strings-anagram-ii/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | <a href="leetcode/02206_divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 
