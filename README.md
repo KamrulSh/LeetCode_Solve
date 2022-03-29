@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 124** (<span style="color:green">Easy: 110</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 125** (<span style="color:green">Easy: 111</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -114,6 +114,7 @@
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | <a href="leetcode/01979_find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | <a href="leetcode/02000_reverse-prefix-of-word/2000-reverse-prefix-of-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | <a href="leetcode/02023_number-of-pairs-of-strings-with-concatenation-equal-to-target/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | <a href="leetcode/02027_minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | <a href="leetcode/02032_two-out-of-three/2032-two-out-of-three.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | <a href="leetcode/02037_minimum-number-of-moves-to-seat-everyone/2037-minimum-number-of-moves-to-seat-everyone.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | <a href="leetcode/02053_kth-distinct-string-in-an-array/2053-kth-distinct-string-in-an-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
