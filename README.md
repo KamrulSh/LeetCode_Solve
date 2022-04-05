@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 132** (<span style="color:green">Easy: 118</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 133** (<span style="color:green">Easy: 119</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -53,6 +53,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | <a href="leetcode/00383_ransom-note/383-ransom-note.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | <a href="leetcode/00387_first-unique-character-in-a-string/387-first-unique-character-in-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href="leetcode/00389_find-the-difference/389-find-the-difference.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a><a href="leetcode/00389_find-the-difference/389-find-the-difference.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a> | Easy |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | <a href="leetcode/00434_number-of-segments-in-a-string/434-number-of-segments-in-a-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | <a href="leetcode/00496_next-greater-element-i/496-next-greater-element-i.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | <a href="leetcode/00500_keyboard-row/500-keyboard-row.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | <a href="leetcode/00503_next-greater-element-ii/503-next-greater-element-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
