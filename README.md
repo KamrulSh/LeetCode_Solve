@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 134** (<span style="color:green">Easy: 120</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 136** (<span style="color:green">Easy: 122</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -58,6 +58,7 @@
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | <a href="leetcode/00496_next-greater-element-i/496-next-greater-element-i.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | <a href="leetcode/00500_keyboard-row/500-keyboard-row.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | <a href="leetcode/00503_next-greater-element-ii/503-next-greater-element-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | <a href="leetcode/00520_detect-capital/520-detect-capital.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | <a href="leetcode/00557_reverse-words-in-a-string-iii/557-reverse-words-in-a-string-iii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | <a href="leetcode/00566_reshape-the-matrix/566-reshape-the-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | <a href="leetcode/00589_n-ary-tree-preorder-traversal/589-n-ary-tree-preorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
@@ -95,6 +96,7 @@
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | <a href="leetcode/01507_reformat-date/1507-reformat-date.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | <a href="leetcode/01523_count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | <a href="leetcode/01550_three-consecutive-odds/1550-three-consecutive-odds.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | <a href="leetcode/01556_thousand-separator/1556-thousand-separator.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | <a href="leetcode/01572_matrix-diagonal-sum/1572-matrix-diagonal-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a><a href="leetcode/01572_matrix-diagonal-sum/1572-matrix-diagonal-sum.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a> | Easy |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | <a href="leetcode/01588_sum-of-all-odd-length-subarrays/1588-sum-of-all-odd-length-subarrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | <a href="leetcode/01598_crawler-log-folder/1598-crawler-log-folder.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
