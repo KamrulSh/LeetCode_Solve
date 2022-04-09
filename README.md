@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 136** (<span style="color:green">Easy: 122</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 137** (<span style="color:green">Easy: 123</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -71,6 +71,7 @@
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <a href="leetcode/00739_daily-temperatures/739-daily-temperatures.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | <a href="leetcode/00748_shortest-completing-word/748-shortest-completing-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | <a href="leetcode/00821_shortest-distance-to-a-character/821-shortest-distance-to-a-character.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | <a href="leetcode/00860_lemonade-change/860-lemonade-change.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | <a href="leetcode/00867_transpose-matrix/867-transpose-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | <a href="leetcode/00884_uncommon-words-from-two-sentences/884-uncommon-words-from-two-sentences.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | <a href="leetcode/00929_unique-email-addresses/929-unique-email-addresses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
