@@ -1,23 +1,23 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
-        table = {5: 0, 10: 0}
+        five, ten = 0, 0
         for i in bills:
             if i == 5:
-                table[5] += 1
+                five += 1
             elif i == 10:
-                table[10] += 1
-                if table[5] == 0:
+                ten += 1
+                if five == 0:
                     return False
                 else:
-                    table[5] -= 1
+                    five -= 1
             elif i == 20:
-                if table[5] == 0:
+                if five == 0:
                     return False
-                elif table[10] == 0 and table[5] >= 3:
-                    table[5] -= 3
-                elif table[10] > 0 and table[5] > 0:
-                    table[5] -= 1
-                    table[10] -= 1
+                elif ten == 0 and five >= 3:
+                    five -= 3
+                elif ten > 0 and five > 0:
+                    five -= 1
+                    ten -= 1
                 else:
                     return False
         return True
