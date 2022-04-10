@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 137** (<span style="color:green">Easy: 123</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 138** (<span style="color:green">Easy: 124</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -85,6 +85,7 @@
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | <a href="leetcode/01309_decrypt-string-from-alphabet-to-integer-mapping/1309-decrypt-string-from-alphabet-to-integer-mapping.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a><a href="leetcode/01309_decrypt-string-from-alphabet-to-integer-mapping/1309-decrypt-string-from-alphabet-to-integer-mapping.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a> | Easy |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | <a href="leetcode/01323_maximum-69-number/1323-maximum-69-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | <a href="leetcode/01356_sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | <a href="leetcode/01380_lucky-numbers-in-a-matrix/1380-lucky-numbers-in-a-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | <a href="leetcode/01385_find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | <a href="leetcode/01394_find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | <a href="leetcode/01441_build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
