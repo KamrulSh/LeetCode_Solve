@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 138** (<span style="color:green">Easy: 124</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 139** (<span style="color:green">Easy: 125</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -81,6 +81,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | <a href="leetcode/01021_remove-outermost-parentheses/1021-remove-outermost-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | <a href="leetcode/01189_maximum-number-of-balloons/1189-maximum-number-of-balloons.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | <a href="leetcode/01232_check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) |  | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | <a href="leetcode/01281_subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/01281_subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | <a href="leetcode/01309_decrypt-string-from-alphabet-to-integer-mapping/1309-decrypt-string-from-alphabet-to-integer-mapping.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a><a href="leetcode/01309_decrypt-string-from-alphabet-to-integer-mapping/1309-decrypt-string-from-alphabet-to-integer-mapping.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a> | Easy |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | <a href="leetcode/01323_maximum-69-number/1323-maximum-69-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
