@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 139** (<span style="color:green">Easy: 125</span>, <span style="color:orange">Medium: 14</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 140** (<span style="color:green">Easy: 125</span>, <span style="color:orange">Medium: 15</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -139,6 +139,7 @@
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | <a href="leetcode/02103_rings-and-rods/2103-rings-and-rods.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | <a href="leetcode/02108_find-first-palindromic-string-in-the-array/2108-find-first-palindromic-string-in-the-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | <a href="leetcode/02119_a-number-after-a-double-reversal/2119-a-number-after-a-double-reversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | <a href="leetcode/02120_execution-of-all-suffix-instructions-staying-in-a-grid/2120-execution-of-all-suffix-instructions-staying-in-a-grid.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements ](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | <a href="leetcode/02148_count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | <a href="leetcode/02154_keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | <a href="leetcode/02160_minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
