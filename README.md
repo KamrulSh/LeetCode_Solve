@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 140** (<span style="color:green">Easy: 125</span>, <span style="color:orange">Medium: 15</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 141** (<span style="color:green">Easy: 126</span>, <span style="color:orange">Medium: 15</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -17,6 +17,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <a href="leetcode/00014_longest-common-prefix/14-longest-common-prefix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href="leetcode/00020_valid-parentheses/20-valid-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href="leetcode/00021_merge-two-sorted-lists/21-merge-two-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | <a href="leetcode/00027_remove-element/27-remove-element.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <a href="leetcode/00035_search-insert-position/35-search-insert-position.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href="leetcode/00053_maximum-subarray/53-maximum-subarray.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
