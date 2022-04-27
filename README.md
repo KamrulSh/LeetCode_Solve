@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 142** (<span style="color:green">Easy: 126</span>, <span style="color:orange">Medium: 16</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 143** (<span style="color:green">Easy: 126</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -18,6 +18,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href="leetcode/00020_valid-parentheses/20-valid-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href="leetcode/00021_merge-two-sorted-lists/21-merge-two-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | <a href="leetcode/00027_remove-element/27-remove-element.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | <a href="leetcode/00034_find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <a href="leetcode/00035_search-insert-position/35-search-insert-position.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <a href="leetcode/00049_group-anagrams/49-group-anagrams.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
