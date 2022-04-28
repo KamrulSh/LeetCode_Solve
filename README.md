@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 143** (<span style="color:green">Easy: 126</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 144** (<span style="color:green">Easy: 127</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -23,6 +23,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <a href="leetcode/00049_group-anagrams/49-group-anagrams.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href="leetcode/00053_maximum-subarray/53-maximum-subarray.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | <a href="leetcode/00058_length-of-last-word/58-length-of-last-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href="leetcode/00070_climbing-stairs/70-climbing-stairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <a href="leetcode/00074_search-a-2d-matrix/74-search-a-2d-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | <a href="leetcode/00083_remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
