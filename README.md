@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 145** (<span style="color:green">Easy: 128</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 146** (<span style="color:green">Easy: 129</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -153,4 +153,5 @@
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | <a href="leetcode/02185_counting-words-with-a-given-prefix/2185-counting-words-with-a-given-prefix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | <a href="leetcode/02186_minimum-number-of-steps-to-make-two-strings-anagram-ii/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | <a href="leetcode/02206_divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | <a href="leetcode/02248_intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 
