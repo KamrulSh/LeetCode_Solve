@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 147** (<span style="color:green">Easy: 130</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 149** (<span style="color:green">Easy: 132</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -155,4 +155,6 @@
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | <a href="leetcode/02206_divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | <a href="leetcode/02248_intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | <a href="leetcode/02255_count-prefixes-of-a-given-string/2255-count-prefixes-of-a-given-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | <a href="leetcode/02315_count-asterisks/2315-count-asterisks.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | <a href="leetcode/02351_first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 
