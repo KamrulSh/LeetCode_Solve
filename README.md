@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 149** (<span style="color:green">Easy: 132</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 150** (<span style="color:green">Easy: 133</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -132,6 +132,7 @@
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | <a href="leetcode/01967_number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | <a href="leetcode/01979_find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | <a href="leetcode/02000_reverse-prefix-of-word/2000-reverse-prefix-of-word.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | <a href="leetcode/02006_count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | <a href="leetcode/02023_number-of-pairs-of-strings-with-concatenation-equal-to-target/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | <a href="leetcode/02027_minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | <a href="leetcode/02032_two-out-of-three/2032-two-out-of-three.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
