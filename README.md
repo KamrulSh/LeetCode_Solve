@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 150** (<span style="color:green">Easy: 133</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 151** (<span style="color:green">Easy: 134</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -157,5 +157,6 @@
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | <a href="leetcode/02248_intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | <a href="leetcode/02255_count-prefixes-of-a-given-string/2255-count-prefixes-of-a-given-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | <a href="leetcode/02315_count-asterisks/2315-count-asterisks.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | <a href="leetcode/02341_maximum-number-of-pairs-in-array/2341-maximum-number-of-pairs-in-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | <a href="leetcode/02351_first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 
