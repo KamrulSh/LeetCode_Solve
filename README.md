@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 152** (<span style="color:green">Easy: 135</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 153** (<span style="color:green">Easy: 136</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -102,6 +102,7 @@
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | <a href="leetcode/01502_can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | <a href="leetcode/01507_reformat-date/1507-reformat-date.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | <a href="leetcode/01523_count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | <a href="leetcode/01528_shuffle-string/1528-shuffle-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | <a href="leetcode/01550_three-consecutive-odds/1550-three-consecutive-odds.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | <a href="leetcode/01556_thousand-separator/1556-thousand-separator.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | <a href="leetcode/01572_matrix-diagonal-sum/1572-matrix-diagonal-sum.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a><a href="leetcode/01572_matrix-diagonal-sum/1572-matrix-diagonal-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
