@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 153** (<span style="color:green">Easy: 136</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 154** (<span style="color:green">Easy: 137</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -38,6 +38,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href="leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href="leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <a href="leetcode/00155_min-stack/155-min-stack.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |  | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | <a href="leetcode/00189_rotate-array/189-rotate-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
