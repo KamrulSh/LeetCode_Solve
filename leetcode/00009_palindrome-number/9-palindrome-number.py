@@ -3,7 +3,7 @@ class Solution:
         left = 0
         x = str(x)
         right = len(x) - 1
-        while(left < right):
+        while (left < right):
             if x[left] != x[right]:
                 return False
             left += 1

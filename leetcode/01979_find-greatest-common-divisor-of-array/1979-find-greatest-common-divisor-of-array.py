@@ -4,7 +4,7 @@ class Solution:
         maxi = max(nums)
         gcd = 0
 
-        while(maxi != mini):
+        while (maxi != mini):
             if maxi > mini:
                 maxi -= mini
             elif mini > maxi:

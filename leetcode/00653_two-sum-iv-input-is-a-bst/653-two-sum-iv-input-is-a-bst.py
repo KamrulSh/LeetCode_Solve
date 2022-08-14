@@ -9,7 +9,7 @@ class Solution:
         values = []
         roots = [root]
 
-        while(len(roots)):
+        while (len(roots)):
             node = roots.pop(0)
             if k - node.val in values:
                 return True

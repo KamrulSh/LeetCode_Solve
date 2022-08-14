@@ -10,7 +10,7 @@ class Solution:
         if not root:
             return None
 
-        while(root != None):
+        while (root != None):
             if root.val == val:
                 return root
             elif val < root.val:

@@ -7,7 +7,7 @@ class Solution:
                 return w
             flag = None
 
-            while(i < l):
+            while (i < l):
                 if w[i] == w[l]:
                     flag = True
                     i += 1
