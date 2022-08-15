@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 154** (<span style="color:green">Easy: 137</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 155** (<span style="color:green">Easy: 138</span>, <span style="color:orange">Medium: 17</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -67,6 +67,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | <a href="leetcode/00557_reverse-words-in-a-string-iii/557-reverse-words-in-a-string-iii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | <a href="leetcode/00566_reshape-the-matrix/566-reshape-the-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | <a href="leetcode/00589_n-ary-tree-preorder-traversal/589-n-ary-tree-preorder-traversal.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) |  | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | <a href="leetcode/00653_two-sum-iv-input-is-a-bst/653-two-sum-iv-input-is-a-bst.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | <a href="leetcode/00682_baseball-game/682-baseball-game.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | <a href="leetcode/00700_search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
