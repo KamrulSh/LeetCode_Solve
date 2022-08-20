@@ -4,11 +4,12 @@
 
 ## LeetCode
 
-**Problem Solved: 157** (<span style="color:green">Easy: 139</span>, <span style="color:orange">Medium: 18</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 158** (<span style="color:green">Easy: 139</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href="leetcode/00001_two-sum/1-two-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <a href="leetcode/00003_longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | <a href="leetcode/00007_reverse-integer/7-reverse-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a><a href="leetcode/00007_reverse-integer/7-reverse-integer.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"></a> | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | <a href="leetcode/00009_palindrome-number/9-palindrome-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
