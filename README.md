@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 158** (<span style="color:green">Easy: 139</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 159** (<span style="color:green">Easy: 140</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <a href="leetcode/00155_min-stack/155-min-stack.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |  | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | <a href="leetcode/00189_rotate-array/189-rotate-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | <a href="leetcode/00190_reverse-bits/190-reverse-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |  | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
