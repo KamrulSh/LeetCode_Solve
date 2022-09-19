@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 159** (<span style="color:green">Easy: 140</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 160** (<span style="color:green">Easy: 141</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -167,4 +167,5 @@
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | <a href="leetcode/02341_maximum-number-of-pairs-in-array/2341-maximum-number-of-pairs-in-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | <a href="leetcode/02347_best-poker-hand/2347-best-poker-hand.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | <a href="leetcode/02351_first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | <a href="leetcode/02413_smallest-even-multiple/2413-smallest-even-multiple.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 
