@@ -126,17 +126,17 @@ def move_question_directory():
             logging.warning(f'Somthing went wrong when moving directory "{path}", error={error}')
 
 
-# def build_readme(questions: List[Question]) -> str:
-#     md = "| # | Title | Solutions | Difficulty |\n" + \
-#         "| - | - | - | - |\n"
-#     for q in questions:
-#         anchored_title = f"[{q.title}]({q.link})"
-#         solution_links = ""
-#         for ext, path in q.solutions_dict.items():
-#             solution_links += f'<a href="{path}"><img src="{ICONS[ext]}" width="20" height="20"></a>'
-#         md += f"| {q.number} | {anchored_title} " + \
-#             f"| {solution_links} | {q.difficulty} |\n"
-#     return md
+def build_readme(questions: List[Question]) -> str:
+    md = "| # | Title | Solutions | Difficulty |\n" + \
+        "| - | - | - | - |\n"
+    for q in questions:
+        anchored_title = f"[{q.title}]({q.link})"
+        solution_links = ""
+        for ext, path in q.solutions_dict.items():
+            solution_links += f'<a href="{path}"><img src="{ICONS[ext]}" width="20" height="20"></a>'
+        md += f"| {q.number} | {anchored_title} " + \
+            f"| {solution_links} | {q.difficulty} |\n"
+    return md
 
 
 if __name__ == "__main__":
@@ -156,10 +156,10 @@ if __name__ == "__main__":
     questions.sort(key=lambda q: q.number)
     logging.info(f"{total} questions are found ({level_count})")
 
-#     md_table = build_readme(questions)
-#     with open(SCRIPTS_DIRECTORY / 'README.md.tpl', 'r') as template, \
-#             open('README.md', 'w') as output:
-#         template_string = template.read()
-#         content = template_string.format(leetcode=md_table, total=total, **level_count)
-#         output.write(content)
+    md_table = build_readme(questions)
+    with open(SCRIPTS_DIRECTORY / 'README.md.tpl', 'r') as template, \
+            open('README.md', 'w') as output:
+        template_string = template.read()
+        content = template_string.format(leetcode=md_table, total=total, **level_count)
+        output.write(content)
     logging.info("Done updating README.md")
