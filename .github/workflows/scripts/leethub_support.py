@@ -156,10 +156,10 @@ if __name__ == "__main__":
     questions.sort(key=lambda q: q.number)
     logging.info(f"{total} questions are found ({level_count})")
 
-    md_table = build_readme(questions)
-    with open(SCRIPTS_DIRECTORY / 'README.md.tpl', 'r') as template, \
-            open('README.md', 'w') as output:
-        template_string = template.read()
-        content = template_string.format(leetcode=md_table, total=total, **level_count)
-        output.write(content)
+#     md_table = build_readme(questions)
+#     with open(SCRIPTS_DIRECTORY / 'README.md.tpl', 'r') as template, \
+#             open('README.md', 'w') as output:
+#         template_string = template.read()
+#         content = template_string.format(leetcode=md_table, total=total, **level_count)
+#         output.write(content)
     logging.info("Done updating README.md")

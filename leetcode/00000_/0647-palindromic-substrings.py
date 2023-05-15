@@ -17,7 +17,7 @@ class Solution:
                 table[i][i + 1] = 1
                 palindrome_count += 1
             i += 1
-        
+
         str_len = 3
         while str_len <= ln:
             init = 0
