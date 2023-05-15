@@ -1,30 +1,47 @@
-<h2><a href="https://leetcode.com/problems/palindromic-substrings">647. Palindromic Substrings</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, return <em>the number of <strong>palindromic substrings</strong> in it</em>.</p>
+<h2><a href="https://leetcode.com/problems/rising-temperature">197. Rising Temperature</a></h2><h3>Easy</h3><hr><p>Table: <code>Weather</code></p>
 
-<p>A string is a <strong>palindrome</strong> when it reads the same backward as forward.</p>
+<pre>
++---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| id            | int     |
+| recordDate    | date    |
+| temperature   | int     |
++---------------+---------+
+id is the primary key for this table.
+This table contains information about the temperature on a certain day.
+</pre>
 
-<p>A <strong>substring</strong> is a contiguous sequence of characters within the string.</p>
+<p>&nbsp;</p>
+
+<p>Write an SQL query to find all dates&#39; <code>Id</code> with higher temperatures compared to its previous dates (yesterday).</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The query result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;abc&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> Three palindromic strings: &quot;a&quot;, &quot;b&quot;, &quot;c&quot;.
+<strong>Input:</strong> 
+Weather table:
++----+------------+-------------+
+| id | recordDate | temperature |
++----+------------+-------------+
+| 1  | 2015-01-01 | 10          |
+| 2  | 2015-01-02 | 25          |
+| 3  | 2015-01-03 | 20          |
+| 4  | 2015-01-04 | 30          |
++----+------------+-------------+
+<strong>Output:</strong> 
++----+
+| id |
++----+
+| 2  |
+| 4  |
++----+
+<strong>Explanation:</strong> 
+In 2015-01-02, the temperature was higher than the previous day (10 -&gt; 25).
+In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aaa&quot;
-<strong>Output:</strong> 6
-<strong>Explanation:</strong> Six palindromic strings: &quot;a&quot;, &quot;a&quot;, &quot;a&quot;, &quot;aa&quot;, &quot;aa&quot;, &quot;aaa&quot;.
-</pre>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
-	<li><code>s</code> consists of lowercase English letters.</li>
-</ul>
