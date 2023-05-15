@@ -126,17 +126,17 @@ def move_question_directory():
             logging.warning(f'Somthing went wrong when moving directory "{path}", error={error}')
 
 
-def build_readme(questions: List[Question]) -> str:
-    md = "| # | Title | Solutions | Difficulty |\n" + \
-        "| - | - | - | - |\n"
-    for q in questions:
-        anchored_title = f"[{q.title}]({q.link})"
-        solution_links = ""
-        for ext, path in q.solutions_dict.items():
-            solution_links += f'<a href="{path}"><img src="{ICONS[ext]}" width="20" height="20"></a>'
-        md += f"| {q.number} | {anchored_title} " + \
-            f"| {solution_links} | {q.difficulty} |\n"
-    return md
+# def build_readme(questions: List[Question]) -> str:
+#     md = "| # | Title | Solutions | Difficulty |\n" + \
+#         "| - | - | - | - |\n"
+#     for q in questions:
+#         anchored_title = f"[{q.title}]({q.link})"
+#         solution_links = ""
+#         for ext, path in q.solutions_dict.items():
+#             solution_links += f'<a href="{path}"><img src="{ICONS[ext]}" width="20" height="20"></a>'
+#         md += f"| {q.number} | {anchored_title} " + \
+#             f"| {solution_links} | {q.difficulty} |\n"
+#     return md
 
 
 if __name__ == "__main__":
