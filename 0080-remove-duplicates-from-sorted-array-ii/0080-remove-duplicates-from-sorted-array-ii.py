@@ -3,7 +3,6 @@ class Solution:
         pos = 0
         count = 1
         for i in range(1, len(nums)):
-            print(nums[i-1], nums[i])
             if nums[i-1] == nums[i]:
                 count += 1
             else:
